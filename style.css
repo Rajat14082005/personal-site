@@ -1,0 +1,44 @@
+#title{
+    background-color: #CDE8E5;
+    color: #959896;
+    
+}
+#heading{
+    font-family: "Poetsen One", sans-serif;
+}
+#resume {
+    background-color: #CDE8E5;
+    
+}
+#resume a{
+    color: black;
+    text-decoration: none;
+}
+#resume a:hover{
+    color: skyblue;
+}
+#project{
+    background-color: #EEF7FF;
+}
+.heading2{
+    margin: 0;
+    padding-bottom: 10px;
+}
+#project1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Playfair Display", serif;
+}
+li{
+    font-family: sans-serif;
+}
+#about_me{
+    font-family: "Playfair Display", serif;
+    background-color: #7AB2B2;
+}
+#para{
+    font-family: sans-serif;
+}
+#contact_me{
+    background-color: #4D869C;
+}
